@@ -2,17 +2,17 @@
 
 metronome https://manual.audacityteam.org/man/rhythm_track.html
 
-	1. use tempo tapper to find bpm https://www.musictheory.net/tools/tapper
+1. use tempo tapper to find bpm https://www.musictheory.net/tools/tapper
 	
-	2. generate > rhythm track
+2. generate > rhythm track
 	
-	3. type in tempo (bpm)
+3. type in tempo (bpm)
 	
-	4. type in beats per bar (how many beats in 1 measure, ie set to 3 for 3/4)
+4. type in beats per bar (how many beats in 1 measure, ie set to 3 for 3/4)
 	
-	5. set number of bars (how many bars of the rhythm track you want to exist in total. ie, higher number for longer recordings/more room to record)
+5. set number of bars (how many bars of the rhythm track you want to exist in total. ie, higher number for longer recordings/more room to record)
 	
-	6. this will generate a new track in audacity that will function as the metronome/click track. you can play to this when you want a metronome 👍
+6. this will generate a new track in audacity that will function as the metronome/click track. you can play to this when you want a metronome 👍
 
 
 recording new track https://manual.audacityteam.org/man/playing_and_recording.html
