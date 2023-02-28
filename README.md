@@ -1,6 +1,6 @@
 # audacity-stuff
 
-##### metronome https://manual.audacityteam.org/man/rhythm_track.html
+#### metronome https://manual.audacityteam.org/man/rhythm_track.html
 
 1. use tempo tapper to find bpm https://www.musictheory.net/tools/tapper
 	
