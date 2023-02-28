@@ -1,6 +1,6 @@
 # audacity-stuff
 
-#### metronome https://manual.audacityteam.org/man/rhythm_track.html
+### metronome https://manual.audacityteam.org/man/rhythm_track.html
 
 1. use tempo tapper to find bpm https://www.musictheory.net/tools/tapper
 	
@@ -15,13 +15,14 @@
 6. this will generate a new track in audacity that will function as the metronome/click track. you can play to this when you want a metronome 👍
 
 
-recording new track https://manual.audacityteam.org/man/playing_and_recording.html
 
-	firstly, select where you'd like the recording to begin by clicking a particular spot on the timeline/audio track
+### recording new track https://manual.audacityteam.org/man/playing_and_recording.html
+
+1. firstly, select where you'd like the recording to begin by clicking a particular spot on the timeline/audio track
 	
-	then, hold shift and press record
+2. then, hold shift and press record
 	
-	this will start the recording at the place selected, and create a new track for said recording
+3. this will start the recording at the place selected, and create a new track for said recording
 	
 
 
