@@ -11,22 +11,16 @@
 
 
 ### recording new track https://manual.audacityteam.org/man/playing_and_recording.html
-
 1. firstly, select where you'd like the recording to begin by clicking a particular spot on the timeline/audio track
-	
-2. then, hold shift and press record
-	
+2. then, hold shift and press record	
 3. this will start the recording at the place selected, and create a new track for said recording
 	
 
 
-remove latency https://manual.audacityteam.org/man/latency_test.html
-
-	if experiencing latency:
-	
-	edit > preferences >devices tab
-	
-	set "latency compensation" to 0, keep "buffer length" the same
+### remove latency https://manual.audacityteam.org/man/latency_test.html
+if experiencing latency:	
+1. edit > preferences >devices tab	
+2. set "latency compensation" to 0, keep "buffer length" the same
 	
 
 
