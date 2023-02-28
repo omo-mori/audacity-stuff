@@ -24,23 +24,17 @@ if experiencing latency:
 	
 
 
-plug-ins (keep in mind the effect is only applied) https://support.audacityteam.org/audio-editing/using-realtime-effects
-
-	you cannot live monitor and real-time effects process at the same time
+### plug-ins (keep in mind the effect is only applied) https://support.audacityteam.org/audio-editing/using-realtime-effects
+you cannot live monitor and real-time effects process at the same time
 	
-	meaning, you cannot tweak your guitar tone while live monitoring BEFORE you actually record
+meaning, you cannot tweak your guitar tone while live monitoring BEFORE you actually record
 	
-	the recording must already exist before you can use plug-ins to alter the sound/tone
+the recording must already exist before you can use plug-ins to alter the sound/tone
 	
-	on the track you want to insert a plug-in onto, click "effects"
-	
-	click "add effect"
-	
-	select desired effect/plug-in from the menu
-	
-	the name of the plug-in should now appear in the "realtime effects" section, which should currently be on the left hand side of the screen
-	
-	click the plug-ins name to open the plug-in itself (user interface)
-	
-	loop playback of the section you're sound designing for, and tweak/play around with the plug-in 👍
+1. on the track you want to insert a plug-in onto, click "effects"	
+2. click "add effect"	
+3. select desired effect/plug-in from the menu	
+4. the name of the plug-in should now appear in the "realtime effects" section, which should currently be on the left hand side of the screen	
+5. click the plug-ins name to open the plug-in itself (user interface)	
+6. loop playback of the section you're sound designing for, and tweak/play around with the plug-in 👍
 	
